@@ -1,1 +1,3 @@
-# LinTech_Acoustic-and-AI-Based_Predictive-Maintenance_with-Edge-Computing_TRG18
+# LinTech 🚀
+## Project: Acoustic and AI-Based Predictive Maintenance with Edge Computing 
+### This project is referenced by TESA Top Gun Rally 18
