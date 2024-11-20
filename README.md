@@ -1,0 +1,1 @@
+# LinTech_Acoustic-and-AI-Based_Predictive-Maintenance_with-Edge-Computing_TRG18
